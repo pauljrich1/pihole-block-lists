@@ -11,3 +11,5 @@
 0.0.0.0 ytimg.com
 0.0.0.0 ytimg.l.google.com
 0.0.0.0 www.youtube.com
+0.0.0.0 restrictmoderate.youtube.com
+0.0.0.0 restrict.youtube.com	
